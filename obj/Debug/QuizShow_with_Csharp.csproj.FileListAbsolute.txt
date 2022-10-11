@@ -1,0 +1,8 @@
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\QuizShow_using_Csharp\bin\Debug\QuizShow_using_Csharp.exe.config
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\QuizShow_using_Csharp\bin\Debug\QuizShow_using_Csharp.exe
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\QuizShow_using_Csharp\bin\Debug\QuizShow_using_Csharp.pdb
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\QuizShow_using_Csharp\obj\Debug\QuizShow_with_Csharp.csproj.AssemblyReference.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\QuizShow_using_Csharp\obj\Debug\QuizShow_with_Csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\QuizShow_using_Csharp\obj\Debug\QuizShow_with_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\QuizShow_using_Csharp\obj\Debug\QuizShow_using_Csharp.exe
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\QuizShow_using_Csharp\obj\Debug\QuizShow_using_Csharp.pdb
